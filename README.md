@@ -4,10 +4,10 @@ Portfolio Assignment
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/Material/Assignments/1.Online_Portfolio/).
 ## Checklist:
-- [x] update the assignment checks above to the correct link
+- [] update the assignment checks above to the correct link
 - [x] update the assignment checks above to the correct link. - Done Automatically
 - [x] fill out the self evaluation and Reflection
-- [x] submit the repository and the hosted github pages to Canvas
+- [] submit the repository and the hosted github pages to Canvas
 
 ## Self Grading Guide
 <!--- put an x in each of the completed sections below .. e.g. [x] Task 1 --->
@@ -26,8 +26,8 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 I should get (20) out of 20 on this assignment.
 
 ## Self-Reflection:
+My area of expertise/interest is more in the background code than the styling so my webpage looks a little bland.
 
-temp
 ### How long it took me to finish this?
-5 hours, I procrastinated heavily
+6 hours, I procrastinated heavily
 -----------------------

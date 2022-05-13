@@ -9,6 +9,10 @@
   font-weight: bold;
 }
 
+.centered>* {
+  margin: auto;
+}
+
 img {
   height: 200px;
 }
