@@ -1,0 +1,18 @@
+.section {
+  width: 49%;
+  display: inline-grid;
+}
+
+
+.section h2 {
+  font-size: large;
+  font-weight: bold;
+}
+
+.centered>* {
+  margin: auto;
+}
+
+img {
+  height: 200px;
+}
